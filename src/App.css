@@ -1,0 +1,89 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.App-header {
+  height: 788px;
+width: 375px;
+left: 0px;
+border-radius: 0px;
+background: #F7F7F7;
+position: relative;
+}
+
+.heading{
+width: 316px;
+height: 50px;
+margin-left: 23px;
+font-family: Century Gothic;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+color: #000000;
+}
+
+p{
+  font-family: Century Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+}
+.p1{
+width: 332px;
+height: 129px;
+margin-left: 22px;
+}
+.icons{
+  width: 47px;
+height: 62px;
+margin: 0 22px 22px 22px ;
+
+}
+.pbold{
+  position: absolute;
+width: 140px;
+height: 20px;
+margin-top: 0px;
+/* P bold */
+font-weight: bold;
+line-height: 20px;
+/* identical to box height */
+color: #000000;
+}
+
+.p2{
+  position: absolute;
+width: 264px;
+height: 125px;
+
+margin-top: 20px;
+font-family: Century Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+}
+
+
+.button{
+  /* Frame 2 */
+
+
+/* Auto Layout */
+
+
+padding: 15px 20px;
+
+position: absolute;
+width: 235px;
+height: 48px;
+left: 22px;
+color: #F7F7F7;
+background: #ED272F;
+}
