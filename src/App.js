@@ -1,8 +1,10 @@
 
 import './App.css';
+import Wrapper from './Wrapper';
 
 function App() {
   return (
+    <Wrapper>
     <div className="App">
       <header className="App-header">
         <h2 className='heading'>Australia’s most secure & trusted garage door brand</h2>
@@ -26,6 +28,7 @@ function App() {
         <button className='button'>Our range of garage doors</button>
       </header>
     </div>
+    </Wrapper>
   );
 }
 
